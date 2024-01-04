@@ -15,8 +15,8 @@ To predict avocado production in 2022, we have employed linear regression. The e
 ## Files
 
 - `avocado-production-data.csv`: The dataset used for analysis.
-- `avocadopredict2022.ipynb`: Jupyter Notebook containing the Python code for linear regression and the prediction for avocado production in 2022.
-- `avocadopredict2022.py`: Python file containing the Python code for linear regression and the prediction for avocado production in 2022.
+- `avocodopredict2022.ipynb`: Jupyter Notebook containing the Python code for linear regression and the prediction for avocado production in 2022.
+- `predictavocado2022.py`: Python file containing the Python code for linear regression and the prediction for avocado production in 2022.
 
 ## Instructions
 
